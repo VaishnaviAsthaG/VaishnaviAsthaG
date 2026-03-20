@@ -84,8 +84,8 @@
 
 ---
 
-## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=vaishnaviasthag)
+## 🏆 GitHub Trophies 
+![](https://github-profile-trophy.vercel.app/?username=vaishnaviasthag&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
 ---
