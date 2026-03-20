@@ -85,16 +85,12 @@
 ---
 
 ## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vaishnaviasthag&theme=radical&no-bg=true" />
-</div>
+![](https://github-profile-trophy.vercel.app/?username=vaishnaviasthag&theme=radical&no-frame=false&no-bg=true&margin-w=4&cache_seconds=86400)
 
 ---
 
 ### 🔝 Top Contributed Repo
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=vaishnaviasthag&limit=5&theme=dark" />
-</div>
+![](https://github-contributor-stats.vercel.app/api?username=vaishnaviasthag&limit=5&theme=dark&combine_all_yearly_contributions=true&cache_seconds=86400)
 
 ---
 
