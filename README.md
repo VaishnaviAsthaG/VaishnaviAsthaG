@@ -77,32 +77,24 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vaishnaviasthag&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnaviasthag&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="165" />
-</div>
-
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=vaishnaviasthag&theme=dark&hide_border=false" />
-</div>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=vaishnaviasthag&theme=apprentice&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=vaishnaviasthag&theme=apprentice&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnaviasthag&theme=apprentice&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
 ## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vaishnaviasthag&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
-</div>
+![](https://github-profile-trophy.vercel.app/?username=vaishnaviasthag&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=vaishnaviasthag&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-## 🔝 Top Contributed Repos
+---
+[![](https://visitcount.itsvg.in/api?id=vaishnaviasthag&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=vaishnaviasthag&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ---
 
