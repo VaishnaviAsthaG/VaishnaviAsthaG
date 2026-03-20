@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Vaishnavi%20Gupta&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20DSA%20Enthusiast%20%7C%20Open%20Source%20Contributor&descAlignY=55&descSize=16" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Vaishnavi%20Astha%20Gupta&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20DSA%20Enthusiast%20%7C%20Open%20Source%20Contributor&descAlignY=55&descSize=16" />
 </div>
 
 <div align="center">
@@ -12,9 +12,9 @@
   <a href="mailto:vaishnaviastha8@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://visitcount.itsvg.in">
+  <!-- <a href="https://visitcount.itsvg.in">
     <img src="https://visitcount.itsvg.in/api?id=vaishnaviasthag&icon=7&color=5" />
-  </a>
+  </a> -->
 </div>
 
 <br/>
@@ -28,7 +28,7 @@
 - 🤝 Seeking guidance on **Advanced Backend Development and System Design**
 - 🌱 Currently learning **Node.js, REST APIs, and Problem Solving on LeetCode**
 - 💬 Ask me about **React, JavaScript, Web Development, and DSA**
-- ⚡ Fun fact: **I enjoy turning ideas into real web applications and never stop learning**
+- ⚡  **I enjoy turning ideas into real web applications and never stop learning**
 
 ---
 
