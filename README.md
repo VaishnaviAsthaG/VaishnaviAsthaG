@@ -85,7 +85,8 @@
 ---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=vaishnaviasthag&theme=radical&no-frame=false&no-bg=true&margin-w=4&cache_seconds=86400)
+![Trophies](https://github-profile-trophy.vercel.app/?username=vaishnaviasthag)
+
 
 ---
 
