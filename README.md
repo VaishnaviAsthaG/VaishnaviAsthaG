@@ -12,9 +12,9 @@
   <a href="mailto:vaishnaviastha8@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <!-- <a href="https://visitcount.itsvg.in">
+  <a href="https://grand-queijadas-d21c31.netlify.app">
     <img src="https://visitcount.itsvg.in/api?id=vaishnaviasthag&icon=7&color=5" />
-  </a> -->
+  </a>
 </div>
 
 <br/>
